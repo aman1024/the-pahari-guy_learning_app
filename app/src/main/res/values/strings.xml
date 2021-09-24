@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ThePahariGuy_learningJourney</string>
+
+    <string name="maymessage"> </string>
+
+    <string name="quote">Truth is like poetry and most people hate fuc##@$ poetry </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
